@@ -1,0 +1,17 @@
+{
+  "name": "reddit-ezol",
+  "version": "1.0.0",
+  "description": "quick and dirty reddit table example with ezol",
+  "main": "index.js",
+  "scripts": {
+    "start": "bankai start index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Waller <mdx.programs@gmail.com> (http://joshwaller.net/)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "bankai": "^9.0.1",
+    "ezoljs": "^3.1.6"
+  }
+}
